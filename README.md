@@ -28,7 +28,11 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 ## Dev Details 👤:
 <p align="middle">
 <img src="https://te.legra.ph/file/084a90dde3b1e39fe5c9a.jpg" width="400"></a></p
-<p align="center">
+
+<p align="middle">
+> ⭐️ Thanks to everyone for using Stylish-Text, That is the greatest pleasure we have !
+ </p>
+<p align="middle">
 <img src="https://badgen.net/badge/Name/BAEWAFAAA/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/Bae_wafaaa"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
