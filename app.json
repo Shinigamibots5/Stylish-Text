@@ -6,10 +6,10 @@
     "best",
     "StylishText"
   ],
-  "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
-  "success_url": "https://telegram.dog/stylishtext_Nsbot",
-  "website": "https://github.com/Ns-Bots/Stylish-Text",
-  "repository": "https://github.com/Ns-Bots/Stylish-Text",
+  "logo": "https://te.legra.ph/file/51d142cd1c5817832dd5c.jpg",
+  "success_url": "https://te.legram.dog/Bae_wafaaa",
+  "website": "https://github.com/Shinigamibots5/Stylish-Text",
+  "repository": "https://github.com/Shinigamibots5/Stylish-Text",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
